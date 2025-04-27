@@ -1,0 +1,6 @@
+CREATE TABLE EMPLOYEE (
+  employee_id NUMBER PRIMARY KEY,
+  name VARCHAR2(150),
+  email VARCHAR2(100),
+  job_title VARCHAR2(100)
+);
